@@ -1,1 +1,234 @@
+.backimg {
+    background-image: url("images/donation7.jpg");
+    background-position: center;
+    color: aliceblue;
+    background-size: cover;
+    height: 600px;
 
+}
+
+.backimg p {
+    text-align: center;
+    text-decoration: solid;
+    font-family: 'Times New Roman', Times, serif;
+    height: 50%;
+    width: 100%;
+}
+
+.backimg h1 {
+    font-size: 300%;
+}
+
+.backimg button {
+    color: white;
+    background-color: tomato;
+    margin-left: 45%;
+    margin-right: 45%;
+    font-size: x-large;
+    padding: 5px;
+    border-radius: .20em;
+    border: 0ch;
+}
+
+.backimg1 {
+    text-align: center;
+    text-decoration: solid;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 100px;
+}
+
+.backimg1 p1 {
+    color: slategray;
+}
+
+#b1 {
+    font-size: x-large;
+    background-color: rgb(246, 246, 246);
+    padding: 50px;
+    color: rgb(128, 128, 139);
+    border-radius: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 0ch;
+    margin: 4px;
+}
+
+#b2 {
+    padding: 5px;
+    width: 60%;
+    color: rgb(158, 158, 167);
+    background-color: rgb(245, 245, 246);
+    border-radius: 5px;
+    border: 0ch;
+}
+
+.input button {
+    color: white;
+    background-color: tomato;
+    margin-left: 45%;
+    margin-right: 45%;
+    font-size: x-large;
+    padding: 5px;
+    border-radius: .20em;
+    border: 0ch;
+}
+
+.donateplan {
+    margin-bottom: 100px;
+}
+
+#donate {
+    margin-top: 100px;
+    text-align: center;
+    text-decoration: solid;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+
+}
+
+
+
+#planimg1 {
+    background-image: url("icons/food.png");
+    color: black;
+    background-color: azure;
+    display: inline;
+    text-align: end;
+    padding: 100px;
+    margin: 4px;
+    background-position: top;
+    background-repeat: no-repeat;
+    border-radius: .20em;
+    text-decoration: solid;
+    margin-top: 4ch;
+}
+
+#planimg2 {
+    background-image: url("icons/shelter.png");
+    color: black;
+    background-color: pink;
+    display: inline;
+    text-align: end;
+    padding: 50px;
+    margin: 5px;
+    background-position: top;
+    background-repeat: no-repeat;
+    border-radius: .20em;
+    text-decoration: solid;
+    padding: 100px;
+    margin-top: 4ch;
+}
+
+
+#planimg3 {
+    background-image: url("icons/Frame-1.png");
+    color: black;
+    background-color: bisque;
+    display: inline;
+    text-align: end;
+    padding: 50px;
+    margin: 4px;
+    background-position: top;
+    background-repeat: no-repeat;
+    border-radius: .20em;
+    text-decoration: solid;
+    padding: 100px;
+    margin-top: 4ch;
+
+}
+
+.details {
+    background-image: url("images/donation11.jpg");
+    background-position: right;
+    background-repeat: no-repeat;
+    height: 300px;
+    weight: 100px;
+    margin-right: 120px;
+    margin-left: 120px;
+    text-align: left;
+    padding: 20px;
+    margin-top: 100px;
+    border-radius: 10px;
+    text-size-adjust: auto;
+
+}
+
+.details button {
+    color: white;
+    background-color: tomato;
+    font-size: x-large;
+    padding: 5px;
+    border-radius: .20em;
+    border: 0ch;
+}
+
+.details2 {
+    background-image: url("images/donation1.jpg");
+    background-position: left;
+    background-repeat: no-repeat;
+    height: 300px;
+    weight: 100px;
+    margin-right: 120px;
+    margin-left: 120px;
+    text-align: right;
+    padding: 20px;
+    margin-top: 5%;
+    border-radius: 10px;
+    margin-bottom: 100px;
+}
+
+.details2 button {
+    color: white;
+    background-color: tomato;
+    font-size: x-large;
+    padding: 5px;
+    border-radius: .20em;
+    border: 0ch;
+}
+
+#email {
+    color: rgb(161, 180, 180);
+    text-align: center;
+    margin-top: 100px;
+    height: 30px;
+    padding: 2px;
+    background-color: rgb(224, 228, 228);
+    border: 0ch;
+    border-radius: 5px;
+
+}
+
+.emailbackground {
+    background-color: antiquewhite;
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 5px
+}
+
+.emailbackground button {
+    height: 36px;
+    background-color: tomato;
+    padding: 7px;
+    border: 0ch;
+    border-radius: 5px;
+    color: white;
+}
+
+#footer {
+    background-color: black;
+    background-size: cover;
+    height: 150px;
+    margin-top: 150px;
+}
+
+#footer p {
+    color: white;
+
+}
+
+#footer h1 {
+    color: tomato;
+    padding: 20px;
+}
